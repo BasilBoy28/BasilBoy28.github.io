@@ -28,7 +28,8 @@ html {
 }
 
 body {
-	background: url(minecraft-background.jpg )
+	background-image: url("img_tree.png");
+	background-repeat: no-repeat;	
   font: 18px/1.4 $georgia;
   color: #ee82ee;
 }
